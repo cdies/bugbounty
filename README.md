@@ -1,6 +1,6 @@
 ## Лучшее время для Яндекс BugBounty
  
-https://habr.com/ru/companies/sberbank/articles/736464/](https://habr.com/ru/articles/805913/
+https://habr.com/ru/articles/805913/
 
 <br/><br/>
 ---
